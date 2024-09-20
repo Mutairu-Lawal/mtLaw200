@@ -6,10 +6,10 @@ I'm a passionate Frontend Developer with a knack for creating responsive and use
 
 🛠️ Technologies & Tools
 
-Languages: HTML, CSS, JavaScript, TypeScript
-Frameworks & Libraries: React, Redux, Next.js, Tailwind CSS, Bootstrap
-Tools & Platforms: Git, GitHub, VS Code, Figma, Webpack, Babel
-Others: RESTful APIs, GraphQL, Agile/Scrum, CI/CD
+Languages: HTML, CSS, JavaScript,
+Frameworks & Libraries: React, Bootstrap,jQuery
+Tools & Platforms: Git, GitHub, VS Code, Figma,
+Others: RESTful APIs,
 
 🌱 Currently Learning
 
